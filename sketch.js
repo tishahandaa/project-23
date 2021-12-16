@@ -60,9 +60,9 @@ function draw() {
 
   if (keyCode === 32) {
     // arrow.(playerArcher.body.angle);
-    // arrow.shoot(playerArcher.angle);
+     arrow.shoot(playerArcher.angle);
     // arrow.shoot(playerArcher.body.angle);
-     arrow.shoot(playerArcher);
+    //arrow.shoot(playerArcher);
   }
 
   // Title
